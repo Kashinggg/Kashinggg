@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi there , you can call me Kasha or Kashie ! 👋
 
-<!--
-**Kashinggg/Kashinggg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔗 Introduction  
+🎓 I’m a 4th-year student at **Laguna State Polytechnic University**, passionate about technology and problem-solving.  
+💻 I enjoy exploring new tools and frameworks, and I’m currently focusing on front end  development and database management to build a strong foundation in software development.  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-## 🎯 Goals  
+- 🎨 Master the art of turning designs into interactive websites.  
+- 💡 Learn more about **JavaScript** to make websites smarter.  
+- 📱 Explore responsive design so everything looks great on any device.  
+- 🚀 Build fun, creative projects that combine coding + creativity.  
+- ☕ Keep learning while enjoying good coffee and late-night coding jams without losing my mind.  
+
+## 🛠 Skills  
+- 🌱 Beginner in **HTML**, **CSS**, and **JavaScript**  
+- 🎨 Beginner in **UI/UX concepts**  
+- ⚡ Exploring **React.js** (and other front-end frameworks)  
+- 🖌️ Basic knowledge of **Flask** & **SQL**
+
+  ## 📬 Contact  
+- ✉️ Email: kashajoya045@gmail.com
