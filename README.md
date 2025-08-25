@@ -5,7 +5,7 @@
 💻 I enjoy exploring new tools and frameworks, and I’m currently focusing on front end  development and database management to build a strong foundation in software development.  
 
 
--## 🎯 Goals  
+## 🎯 Goals  
 - 🎨 Master the art of turning designs into interactive websites.  
 - 💡 Learn more about **JavaScript** to make websites smarter.  
 - 📱 Explore responsive design so everything looks great on any device.  
